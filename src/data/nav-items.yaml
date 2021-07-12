@@ -1,0 +1,22 @@
+- title: Overview
+  pages:
+    - path: /overview/
+- title: Environments
+  pages:
+    - title: ROKS
+      path: /cp4i-on-roks/
+- title: Demos
+  pages:
+    - title: Customer Interactions
+      path: /salesdemos/carrepair-new/overview
+- title: Labs
+  pages:
+    - title: CP4I Labs
+      path: /labs/cp4i
+    - title: APIC Labs
+      path: /APICDevJam
+    - title: Confluent Labs
+      path: /Confluent
+- title: Resources
+  pages:
+    - path: /resources/
